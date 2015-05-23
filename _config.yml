@@ -2,7 +2,7 @@
 title: My GitHub repositories
 email: przemyslaw.biecek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  List of my github repos (Research, Teaching and Just for Fun)
+  List of my github repos
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pbiecek.github.io" # the base hostname & protocol for your site
 github_username:  pbiecek
