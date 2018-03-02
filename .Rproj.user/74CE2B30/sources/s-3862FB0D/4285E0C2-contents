@@ -1,0 +1,46 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Materials on GitHub
+
+* Warsztaty Badawcze; Case studies. <a href="github.com/pbiecek/WarsztatyBadawcze2017/blob/master/README.md">[2017/2018]</a>
+* Programowanie i Wizualizacja z R; R, Data Visualisation, Programming. <a href="https://github.com/pbiecek/ProgramowanieWizualizacja2017">[2017/2018]</a>
+* Techniki Wizualizacji Danych ;  Data Visualisation Techniques  <a href="https://github.com/pbiecek/TechnikiWizualizacjiDanych2017/blob/master/README.md">[2017/2018]</a>
+* Modele liniowe i mieszane; Linear models with fixed and random effects. <a href="https://github.com/pbiecek/LinearModels/tree/master/MIMUW_2015">[2015/2016]</a> <a href="https://github.com/pbiecek/WarsztatyBadawcze/blob/master/MiNI_2017/README.md">[2016/2017]</a>
+* Warsztaty Badawcze; Case studies. <a href="https://github.com/pbiecek/WarsztatyBadawcze/tree/master/MiNI_2016">[2015/2016]</a> <a href="https://github.com/pbiecek/WarsztatyBadawcze/blob/master/MiNI_2017/README.md">[2016/2017]</a>
+* Programowanie i Wizualizacja z R; R, Data Visualisation, Programming. <a href="https://github.com/pbiecek/ProgramowanieWizualizacja/tree/master/MIMUW_2017">[2016/2017]</a>
+* Statistics II; Exploration, Prediction and Verification. [2015/2016] <a href="https://github.com/pbiecek/StatystykaII/tree/master/MIMUW_2017">[2016/2017]</a>
+* Techniki Wizualizacji Danych / Data Visualisation Techniques  [2014/2015] <a href="https://github.com/pbiecek/TechnikiWizualizacjiDanych/tree/master/MINI_2016">[2016/2017]</a>
+* Data products; How to build data tools with R. [2015/2016]
+* R i Duże Dane / R and Big Data; Shiny, opencpu, HPC, spark, R packages, code profiling, web scrapping, databases. [2014/2015] [2015/2016]
+
+## Courses at Warsaw University of Technology
+
+* 2014Z - Data Visualisation Techniques
+* 2015L - R and Big Data
+* 2015Z - Data Mining - Advances
+* 2016L - (in Polish) Biostatystyka molekularna, analiza dużych danych genetycznych
+* 2016L - R and Big Data
+* 2016Z - Data Mining - Advances
+* 2016Z - Data Visualisation Techniques
+* 2017Z - (in Polish) Warsztaty badawcze
+* 2017Z - Data Mining - Advances
+* 2017Z - Data Visualisation Techniques
+* 2018L - Advances in programming and data analysis with R
+* 2018L - Team project – development of data analysis system
+                
+## Courses at University Warsaw
+
+* 2012/13, [1000-1D96ST] Statystyka matematyczna i jej zastosowania, seminarium magisterskie
+* 2012/13, [1000-1L12SBM] Zastosowania statystyki w biologii i medycynie, proseminarium
+* 2012/13, [1000-1S12ZSM] Seminarium badawcze Zakładu Statystyki Matematycznej, seminarium badawcze
+* 2012/13, [1000-1S96ST] Statystyka matematyczna i jej zastosowania (sem. mono. wspólnie z 1000-1D96ST), seminarium monograficzne
+* 2012/13, [1000-1M12RAS] Pakiety statystyczne: R i SAS
+* 2012/13, [1000-1M12MLM] Statystyczna analiza danych: modele liniowe i mieszane z przykładami w programie R
+* 2014/15, [1000-225bJNP3] Języki i narzędzia programowania III
+*  2015/16, [1000-135ST2] Statystyka II
+*  2015/16, [1000-224bJNP2] Języki i narzędzia programowania II
+* 2015/16, [1000-1M10MLM] Modele liniowe i mieszane na przykładzie analizy danych biologicznych i medycznych
+

@@ -1,0 +1,16 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Github packages
+
+- [DALEX](https://github.com/pbiecek/DALEX) R package: DALEX. Descriptive Model Agnostic EXplanations.
+- [archivist](https://github.com/pbiecek/archivist) R package: archivist. Tools for Storing, Restoring and Searching for R Objects.
+- [bgmm](https://github.com/pbiecek/bgmm) R package: bgmm. Gaussian Mixture Modeling algorithms. Including the belief-based mixture modeling.
+- [intsvy](https://github.com/pbiecek/intsvy) R package: intsvy. International Assessment Data Manager.
+- [ddst](https://github.com/pbiecek/ddst) R package: ddst. Data driven smooth tests.
+- [PBImisc](https://github.com/pbiecek/PBImisc) R package: PBImisc. Tools and datasets from ,,Modele liniowe i mieszane w R, wraz z przykladami w analizie danych''
+- [PIAAC](https://github.com/pbiecek/PIAAC) Dataset from Programme for the International Assessment of Adult Competencies OECD study in R format.
+- [PISA2012](https://github.com/pbiecek/PISA2012lite), [PISA2009](https://github.com/pbiecek/PISA2009lite),  [PISA2006](https://github.com/pbiecek/PISA2006lite),  [PISA2003](https://github.com/pbiecek/PISA2003lite),  [PISA2000](https://github.com/pbiecek/PISA2000lite) Datasets from PISA OECD studies in R format.
+      	

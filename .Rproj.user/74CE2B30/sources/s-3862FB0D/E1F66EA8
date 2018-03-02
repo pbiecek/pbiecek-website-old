@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519972417222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E1F66EA8",
+    "lastKnownWriteTime" : 1519976910,
+    "last_content_update" : 1519976910907,
+    "path" : "~/GitHub/pbiecek_github_io/research.Rmd",
+    "project_path" : "research.Rmd",
+    "properties" : {
+        "cursorPosition" : "38,103",
+        "scrollLine" : "26"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

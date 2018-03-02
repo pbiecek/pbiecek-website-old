@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519976071016.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2CC8A9D5",
+    "lastKnownWriteTime" : 1519976782,
+    "last_content_update" : 1519976782799,
+    "path" : "~/GitHub/pbiecek_github_io/consulting.Rmd",
+    "project_path" : "consulting.Rmd",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "2"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

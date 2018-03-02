@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519972914399.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "767862F4",
+    "lastKnownWriteTime" : 1519976565,
+    "last_content_update" : 1519976565201,
+    "path" : "~/GitHub/pbiecek_github_io/books.Rmd",
+    "project_path" : "books.Rmd",
+    "properties" : {
+        "cursorPosition" : "27,90",
+        "scrollLine" : "23"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

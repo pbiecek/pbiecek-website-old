@@ -1,0 +1,15 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Feel free to contact with me:
+
+email: przemyslaw.biecek at gmail dot com<br>
+
+Faculty of Mathematics and Information Science<br/>
+Warsaw University of Technology<br/>
+MI^2 DataLab, room 44<br/>
+ul. Koszykowa 75<br>
+00-662 Warsaw<br>
+Poland

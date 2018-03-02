@@ -1,0 +1,28 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/okladkaPrzewodnikR.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+I wrote my first book in 2007 it was a 350+ pages long guide for R language, statistics and graphics. It was published in 2008 and now it has 4 editions. Every few years the book is being updated as the R language evolves. It was fun to write this book it was a first polish book about R and I still get some warm emails about it.
+
+Find additional materials, errata’s and other sources here: http://biecek.pl/R/.
+
+<img src="images/okladkaAnalizaDanych.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+In the pre-habilitation period I did a lot of studies related to linear and mixed models mostly with collaboration with people from other areas like medicine, oncology or genetics. These collaborations result in lots of interesting use-cases. So in 2011 I gathered selected projects and used them as a skeleton for this book, a companion over linear models with fixed, random and mixed effects.
+
+My interest in mixed models started with lectures of prof. Witold Klonecki, my advisor. It's a very useful set of modeling techniques. Yet these methods are not present in the academic programs in Poland. Thus I hope that this book will introduce them to larger number of data scientists.
+
+Find additional materials, errata’s and other sources here: http://biecek.pl/R/#Analiza.
+
+<img src="images/EsejeO.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+This is my most recent book. It's devoted to data visualization from the point of view of a statistician. 
+It was an very interesting project. I self published this book and make it freely available on web http://biecek.pl/Eseje/. It was a risky project in 2013 but no I think it was worth it. 
+Lots of interesting experience, many interesting discussions and collaborations initiated from this.
+It has a single chapter devoted to Grammar of Graphics that is linked with a single tool. But all other chapters are tool agnostic, they present philosophy and joy that results from good statistical graphics. 
+
+Find additional materials, errata’s and other sources here: http://biecek.pl/R/#Eseje.
