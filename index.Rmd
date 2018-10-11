@@ -5,11 +5,9 @@
 
 <img src="images/przemek7.jpg" style="width:25%; border:10px solid white; margin-right: 20px" align="right">
 
-Data Scientist with background in both mathematical statistics [PAM@WUST](http://wmat.pwr.edu.pl/en/) and software engineering [CSM@WUST](http://wiz.pwr.edu.pl/en/).
+I work as associate professor [MiNI@Warsaw University of Technology](http://mini.pw.edu.pl) and assistant professor [MIM@Univeristy of Warsaw](http://mimuw.edu.pl). My background is in mathematical statistics [PAM@WUST](http://wmat.pwr.edu.pl/en/) and software engineering [CSM@WUST](http://wiz.pwr.edu.pl/en/).
 
-I work as associate professor [MiNI@Warsaw University of Technology](http://mini.pw.edu.pl) and assistant professor [MIM@Univeristy of Warsaw](http://mimuw.edu.pl).
-
-I am interested in predictive modeling of large and complex data, data visualisation and model interepretability.
+I am interested in predictive modelling of large and complex data, data visualisation and model interepretability.
 Research activities are mainly focused on high-throughput genetic profiling in oncology. 
 Also I'm interested in evidence based education, evidence based medicine, general machine learning modeling and statistical software engineering (an R enthusiast).
 Big believer of data-literacy education for kids.
