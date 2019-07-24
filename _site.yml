@@ -15,7 +15,7 @@ navbar:
       href: betabit.html
     - text: "Consulting"
       href: consulting.html
-    - text: "Calls for collaborators"
+    - text: "Call for collaborators"
       href: jobs.html
   right:
     - icon: fa-envelope fa-lg
