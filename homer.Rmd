@@ -7,7 +7,7 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img width="500" src="images/homer.png">
+![HOMER](images/homer.png)
 
 # Call for collaborators 
 
