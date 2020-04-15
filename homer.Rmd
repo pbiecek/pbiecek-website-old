@@ -1,0 +1,104 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img width="500" src="images/homer.png">
+
+# Call for collaborators 
+
+**Human Oriented autoMated machinE leaRning**
+
+## About the project
+
+Where: [MI2DataLab](http://mi2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.mini.pw.edu.pl/)
+
+With whom: Przemysław Biecek [Google Scholar](https://scholar.google.com/citations?user=Af0O75cAAAAJ), [GitHub](https://github.com/pbiecek/). 
+
+What:
+
+Machine learning models are used everywhere. Predictive modelling fundamentally changed data-
+driven disciplines like health-care, biology, finance, legal, military, security, transportation, and many
+more. The increasing availability of large annotated data sources combined with recent developments in
+machine learning models leads to the next industrial revolution.
+
+**BUT: **Predictive models are handcrafted by data scientists in a tedious and laborious process.
+Most of the time spent on data exploration and model training is a set of try-and-error experiments.
+Models become more and more complex to catch even vague signals. Techniques like boosting, bagging
+or neural networks result in models with thousands or millions of parameters. Lack of understanding
+of complex models and poor automation results in problems with replicability and quality of models.
+
+**The main goal of this project is to develop new methods for human-oriented model exploration, interpretable model audits and automated model assembly. The newly appointed research team will create a grammar for human - model interaction.**
+
+## Post-doc
+
+Required:
+
+* PhD in Computer Science, Mathematics, Statistics or similar
+* Experience in Scientific Programming (R and/or Python)
+* Good track of Scientific Records
+
+Scope of work:
+
+* Automated model exploration
+* Interpretable measures for model performance
+* Meta/transfer learning in automated model development
+* Automated model validation
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active ML lab
+* Full-time job at Warsaw University of Technology
+* 10 000 PLN gross per month (plus results-driven extras)
+* contract for 6 months (short visit) / 12 months or 24 months (long visit)
+
+## PhD student (2 positions)
+
+Required:
+
+* MSc in Computer Science, Mathematics, Statistics or similar
+* Experience in Scientific Programming (R and/or Python)
+* Strong motivation 
+
+Scope of work:
+
+* Automated model exploration
+* Concept drift detection
+* Reinforcement learning for HCAI
+* Knowledge extraction form representations
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active ML lab
+* PhD scholarship
+* 3 500 PLN net per month (plus results-driven extras)
+* contract for 6 months (short visit) / 3.5 years (full PhD)
+
+
+## Scientific programmers (2 positions)
+
+Required:
+
+* Experience in Scientific Programming (R and/or Python)
+* Strong motivation 
+
+Scope of work:
+
+* Development of scientific software
+* Maintaining of existing projects
+
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active ML lab
+* Contract for a specific job
+* In a part-time settings (1 day per week) 1 500 PLN gross per month 
+* short (3 months) and long (up to 3 years) contracts
+
+
+
+

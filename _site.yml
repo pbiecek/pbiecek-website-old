@@ -13,10 +13,10 @@ navbar:
       href: teaching.html
     - text: "Data Literacy"
       href: betabit.html
-    - text: "Consulting"
-      href: consulting.html
     - text: "Call for collaborators"
       href: jobs.html
+    - text: "HOMER"
+      href: homer.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
