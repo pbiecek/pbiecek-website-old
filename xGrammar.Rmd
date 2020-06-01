@@ -10,7 +10,7 @@ output:
 
 # The Institutional Grammar for the Exploration of Regulations Related to Artificial Intelligence 
 
-** Call for PhD student**
+## Call for PhD student
 
 ## About the project
 
