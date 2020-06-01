@@ -17,6 +17,8 @@ navbar:
       href: jobs.html
     - text: "HOMER"
       href: homer.html
+    - text: "xGrammar"
+      href: xGrammar.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
