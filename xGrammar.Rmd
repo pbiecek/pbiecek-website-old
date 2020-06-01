@@ -26,11 +26,9 @@ The aim of this project is to expand the institutional grammar [3] for monitorin
 
 ## Supervisors
 
-dr hab. inż. Przemysław Biecek (explainable artificial intelligence) 
-https://scholar.google.pl/citations?user=Af0O75cAAAAJ
+dr hab. inż. Przemysław Biecek (explainable artificial intelligence)  https://scholar.google.pl/citations?user=Af0O75cAAAAJ
 
-dr hab. Bartosz Pieliński (institutional grammar)  
-https://scholar.google.pl/citations?user=hnWiaVEAAAAJ
+dr hab. Bartosz Pieliński (institutional grammar)   https://scholar.google.pl/citations?user=hnWiaVEAAAAJ
 
 ## Ph.D. candidates
 
