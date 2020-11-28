@@ -7,6 +7,32 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## Latest projects
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-8jgo"><a href="http://dalex.drwhy.ai/"><img src="images/mini_dalex.png" height="180"></a></br>Paper and package: <a href="http://dalex.drwhy.ai/">XAI with DALEX for R and Python</a></th>
+    <th class="tg-8jgo"><a href="https://pbiecek.github.io/ema/"><img src="images/mini_ema.png" height="180"></a></br>Book: <a href="https://pbiecek.github.io/ema/">Explanatory Model Analysis</a></th>
+    <th class="tg-8jgo"><a href="https://modeloriented.github.io/fairmodels/"><img src="images/mini_fairmodels.png" height="180"></a></br>Package: <a href="https://modeloriented.github.io/fairmodels/">Fairness with fairmodels</a></th>
+    <th class="tg-8jgo"><a href="http://xai-tools.drwhy.ai/"><img src="images/mini_lungs.png" height="180"></a></br>Paper: <a href="http://xai-tools.drwhy.ai/">Landscape of R packages for XAI</a></th>
+  </tr>
+  <tr>
+    <th class="tg-8jgo"><a href="https://crs19.pl/"><img src="images/mini_crs.png" height="180"></a></br>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a></th>
+    <th class="tg-8jgo"><a href="https://rai-covid.drwhy.ai/"><img src="images/mini_crai.png" height="180"></a></br>Paper: <a href="https://rai-covid.drwhy.ai/">Responsible ML for COVID-19</a></th>
+    <th class="tg-8jgo"><a href="https://github.com/pbiecek/archivist"><img src="images/mini_archivist.png" height="180"></a></br>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a></th>
+  </tr>
+</table>
+
+
 ## MI^2
 
 I lead MI^2 group of data enthusiasts, mostly MSc and PhD students. People here are from Math and Computer Science departments from University of Warsaw or Warsaw University of Technology.
