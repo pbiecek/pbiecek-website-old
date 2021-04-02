@@ -29,6 +29,7 @@ output:
     <th class="tg-8jgo"><a href="https://crs19.pl/"><img src="images/mini_crs.png" height="180"></a></br>Software: <a href="https://crs19.pl/">COVID-19 Risk Score</a></th>
     <th class="tg-8jgo"><a href="https://rai-covid.drwhy.ai/"><img src="images/mini_crai.png" height="180"></a></br>Paper: <a href="https://rai-covid.drwhy.ai/">Responsible ML for COVID-19</a></th>
     <th class="tg-8jgo"><a href="https://github.com/pbiecek/archivist"><img src="images/mini_archivist.png" height="180"></a></br>Paper and package: <a href="https://github.com/pbiecek/archivist">Model governance with R (MLOps)</a></th>
+    <th class="tg-8jgo"><a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X"><img src="images/safe.png" height="180"></a></br>Paper: <a href="https://www.sciencedirect.com/science/article/pii/S016792362100066X">Simpler is better</a></th>
   </tr>
 </table>
 
