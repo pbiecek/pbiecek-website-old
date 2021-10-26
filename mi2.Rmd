@@ -3,7 +3,7 @@ output:
   html_document: 
     toc: false
     toc_float: false
-title: MI^2 - MI2DataLab
+title: MI^2DataLab
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">

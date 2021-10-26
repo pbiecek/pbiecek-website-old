@@ -4,20 +4,25 @@ output:
     toc: false
     toc_float: false
 description: Przemysław Biecek
-title: Przemysław Biecek
+title: Contact details
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="images/przemek8.png" style="width:33%; border:10px solid white; margin-right: 20px" align="left">
 
-Feel free to contact with me:
+<b>Przemysław Biecek</b>
 
-email: przemyslaw.biecek at gmail dot com<br>
+e-mail: przemyslaw.biecek at gmail dot com
+
+GitHub: http://github.com/pbiecek
+
+Twiter: https://twitter.com/smarterpoland
+
+LinkedIn: https://www.linkedin.com/in/pbiecek/
 
 Faculty of Mathematics and Information Science<br/>
 Warsaw University of Technology<br/>
 MI^2 DataLab, room 44<br/>
 ul. Koszykowa 75<br>
-00-662 Warsaw<br>
-Poland
+00-662 Warsaw, Poland
