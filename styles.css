@@ -21,6 +21,12 @@ h5 {
 h6 {
   font-size: 12px;
 }
+p {
+  font-size: 16px;
+}
+div {
+  font-size: 16px;
+}
 img {
     display: block;
     margin: auto;

@@ -3,17 +3,14 @@ output:
   html_document: 
     toc: true
     toc_float: false
+title: Call for collaborators 
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ![HOMER](images/homer.png)
 
-# Call for collaborators 
-
 **Human Oriented autoMated machinE leaRning**
-
-## About the project
 
 Where: [MI2DataLab](http://mi2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.mini.pw.edu.pl/). Our [GitHub](https://github.com/ModelOriented/).
 

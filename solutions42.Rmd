@@ -1,0 +1,24 @@
+---
+output:
+  html_document: 
+    toc: false
+    toc_float: false
+title: Solutions42 - the Powerhouse for Responsible Artificial Intelligence
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Over the last 15 years I have carried out research and development for a number of public (University of Warsaw, Warsaw University of Technology) and private organisations (Samsung, Netezza, IBM, PositiveSolutions, Disney, iQor, LekSeek). 
+In 2021 I founded Solutions42 to share this experience with other companies.
+
+[Solutions42.ai](http://Solutions42.ai) is an agile company helping large and small partners to design, implement and deploy Responsible Artificial Intelligence solutions.
+
+We take an individual approach to each customer. We provide trainings, develop software, validate existing models or create new ones.
+
+If you would like to discuss a possible collaboration, feel free to [contact me](https://pbiecek.github.io/contact.html).
+
+<br/>
+
+<center><img src="images/solutions.png" width="75%"></center>
+
+

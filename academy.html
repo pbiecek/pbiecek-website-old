@@ -11,27 +11,40 @@
 
 
 
-<title>books.utf8</title>
+<title>My work at academia</title>
 
-<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +57,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -80,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -100,40 +84,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -161,7 +118,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -173,7 +130,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -184,10 +141,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -199,7 +169,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -276,52 +245,40 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="research.html">Research</a>
+  <a href="mi2.html">MI²DataLab</a>
 </li>
 <li>
-  <a href="books.html">Books</a>
+  <a href="solutions42.html">Solutions42</a>
 </li>
 <li>
-  <a href="software.html">Software</a>
+  <a href="academy.html">Academy</a>
 </li>
 <li>
-  <a href="teaching.html">Teaching</a>
-</li>
-<li>
-  <a href="betabit.html">Data Literacy</a>
-</li>
-<li>
-  <a href="jobs.html">Call for collaborators</a>
-</li>
-<li>
-  <a href="homer.html">HOMER</a>
-</li>
-<li>
-  <a href="xGrammar.html">xGrammar</a>
+  <a href="homer.html">Call for collaborators</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/pbiecek">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/smarterpoland">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://www.linkedin.com/in/przemyslaw-biecek-5b41761/">
-    <span class="fa fa-linkedin fa-lg"></span>
+  <a href="https://www.linkedin.com/in/pbiecek/">
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -330,15 +287,47 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
+<h1 class="title toc-ignore">My work at academia</h1>
 
 </div>
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="teaching" class="section level2">
+<h2>Teaching</h2>
+<ul>
+<li>Projekt Zesopłowy; Team Project <a href="https://github.com/pbiecek/SystemAnalizyDanych">[2017/2018]</a> <a href="https://github.com/pbiecek/ProjektZespolowy2018">[2018/2019]</a></li>
+<li>Techniki Wizualizacji Danych ; Data Visualisation Techniques [2014/2015] <a href="https://github.com/pbiecek/TechnikiWizualizacjiDanych/tree/master/MINI_2016">[2016/2017]</a> <a href="https://github.com/pbiecek/TechnikiWizualizacjiDanych2018/blob/master/README.md">[2018/2019]</a></li>
+<li>Seminarium dyplomowe Machine Learning <a href="https://github.com/pbiecek/MachineLearningSeminar">[2017/2018]</a> <a href="https://github.com/pbiecek/MachineLearningSeminar">[2018/2019]</a></li>
+<li>Programowanie i analiza danych w R dla Zaawansowanych; Advanced Programming and Data Analysis with R. <a href="https://github.com/pbiecek/AdvancedR2018">[2017/2018]</a></li>
+<li>Warsztaty Badawcze; Case studies. <a href="github.com/pbiecek/WarsztatyBadawcze2017/blob/master/README.md">[2017/2018]</a></li>
+<li>Programowanie i Wizualizacja z R; R, Data Visualisation, Programming. <a href="https://github.com/pbiecek/ProgramowanieWizualizacja2017">[2017/2018]</a> <a href="https://github.com/pbiecek/ProgramowanieWizualizacja/tree/master/MIMUW_2017">[2016/2017]</a></li>
+<li>Techniki Wizualizacji Danych ; Data Visualisation Techniques <a href="https://github.com/pbiecek/TechnikiWizualizacjiDanych2017/blob/master/README.md">[2017/2018]</a></li>
+<li>Modele liniowe i mieszane; Linear models with fixed and random effects. <a href="https://github.com/pbiecek/LinearModels/tree/master/MIMUW_2015">[2015/2016]</a> <a href="https://github.com/pbiecek/WarsztatyBadawcze/blob/master/MiNI_2017/README.md">[2016/2017]</a></li>
+<li>Warsztaty Badawcze; Case studies. <a href="https://github.com/pbiecek/WarsztatyBadawcze/tree/master/MiNI_2016">[2015/2016]</a> <a href="https://github.com/pbiecek/WarsztatyBadawcze/blob/master/MiNI_2017/README.md">[2016/2017]</a></li>
+<li>Statistics II; Exploration, Prediction and Verification. [2015/2016] <a href="https://github.com/pbiecek/StatystykaII/tree/master/MIMUW_2017">[2016/2017]</a></li>
+<li>Data products; How to build data tools with R. [2015/2016]</li>
+<li>R i Duże Dane / R and Big Data; Shiny, opencpu, HPC, spark, R packages, code profiling, web scrapping, databases. <a href="https://github.com/pbiecek/RandBigData">[2014/2015] [2015/2016]</a></li>
+</ul>
+</div>
+<div id="github-packages" class="section level2">
+<h2>Github packages</h2>
+<ul>
+<li><a href="https://github.com/pbiecek/DALEX">DALEX</a> R package: DALEX. Descriptive Model Agnostic EXplanations.</li>
+<li><a href="https://github.com/pbiecek/archivist">archivist</a> R package: archivist. Tools for Storing, Restoring and Searching for R Objects.</li>
+<li><a href="https://github.com/pbiecek/bgmm">bgmm</a> R package: bgmm. Gaussian Mixture Modeling algorithms. Including the belief-based mixture modeling.</li>
+<li><a href="https://github.com/pbiecek/intsvy">intsvy</a> R package: intsvy. International Assessment Data Manager.</li>
+<li><a href="https://github.com/pbiecek/ddst">ddst</a> R package: ddst. Data driven smooth tests.</li>
+<li><a href="https://github.com/pbiecek/PBImisc">PBImisc</a> R package: PBImisc. Tools and datasets from ,,Modele liniowe i mieszane w R, wraz z przykladami w analizie danych’’</li>
+<li><a href="https://github.com/pbiecek/PIAAC">PIAAC</a> Dataset from Programme for the International Assessment of Adult Competencies OECD study in R format.</li>
+<li><a href="https://github.com/pbiecek/PISA2012lite">PISA2012</a>, <a href="https://github.com/pbiecek/PISA2009lite">PISA2009</a>, <a href="https://github.com/pbiecek/PISA2006lite">PISA2006</a>, <a href="https://github.com/pbiecek/PISA2003lite">PISA2003</a>, <a href="https://github.com/pbiecek/PISA2000lite">PISA2000</a> Datasets from PISA OECD studies in R format.</li>
+</ul>
+<p>And lots of other packages that are available at my GitHub account <a href="http://github.com/pbiecek" class="uri">http://github.com/pbiecek</a></p>
+</div>
 <div id="r-for-programming-statistics-and-data-vis" class="section level2">
 <h2>R for programming, statistics and data vis</h2>
 <p><img src="images/okladkaPrzewodnikR.png" style="width:25%; border:1px solid; margin-right: 20px" align="left"> ,,Przewodnik po pakiecie R’’ was my first book. I wrote it in 2007. The first edition was 350+ pages long guide for R language, applied statistics and graphics. It was published in 2008 and now after few years it has 4 major editions. Every few years the book is being updated as the R language evolves. It was fun to write this book it was a first polish book about R and I still get some warm emails about it.</p>
@@ -370,6 +359,31 @@ $(document).ready(function () {
 <p><img src="images/logoSmarterPoland.png" style="width:25%; border:1px solid; margin-left: 20px" align="right"> In my free time I am blogging, mostly about statistics, interesting conferences, events or sources. Recently I am blogging about my experiences as an academic teacher. Content of this blog vary a lot as also my interests.</p>
 <p>Find the blog here: <a href="http://smarterpoland.pl" class="uri">http://smarterpoland.pl</a></p>
 </div>
+<div id="beta-bit" class="section level2">
+<h2>Beta Bit</h2>
+<p>In 2012 I’ve started Beta and Bit initiative with a simple purpose in mind. Let’s create resources that will be interesting for other data-driven people.</p>
+<p>The goal is to have fun while playing with data. Today we have some stories, comic books and games. And working on new stuff.</p>
+<p>The official website of the project is here: <a href="http://betabit.wiki/" class="uri">http://betabit.wiki/</a></p>
+<p>Beta loves math, books and puzzles. Bit loves to hack robots, crack passwords and run into troubles. Together they are a team of curious and unstoppable data crunchers getting to know the world around them through the prism of fun with the data.</p>
+<hr>
+<p>In preparation <a href="https://betaandbit.github.io/KiedyTyWreszcie/indexGrafy.html">,,Tato, kiedy ty mi to wreszcie wytłumaczysz…’’</a>.</p>
+<hr/>
+<p><img src="images/PietrszkosCave.jpg" style="width:15%; border:10px solid white; margin-right: 20px" align="right"> <b>Pietraszko’s Cave</b> by Magda Chudzian is a story about Beta and Bit trapped in the labyrinth of time. In order to return to present times they need to hack the Pietraszko’s time machine.</p>
+<p>Translated by Katarzyna Pap.</p>
+<p>You can buy the book in <a href="http://www.empik.com/pieczara-pietraszki-chudzian-magdalena-biecek-przemyslaw,p1119203030,ksiazka-p">empik</a> or in other bookstores.</p>
+<br><br>
+<hr/>
+<p><img src="images/eng_s1.jpg" style="width:15%; border:10px solid white; margin-right: 20px" align="right"> <b>How to weight a dog with a ruler?</b> is the first comic books about Beta and Bit. Learn how to estimate the weight of T-Rex dinosaur with the use of linear regression!</p>
+<p>Illustrated by Klaudia Korniluk.</p>
+<p>Translated by Witold Chodor.</p>
+<p>Download the pdf from <a href="http://betabit.wiki/story/HeavyDog.pdf">this page</a>.</p>
+<p><br></p>
+<hr/>
+<p><img src="images/TheProtonGame.jpg" style="width:15%; border:10px solid white; margin-right: 20px" align="right"> <b>Ready to hack the Pietraszko’s password? </b>The Proton Game is a text based R console game. Just install and load the BetaBit package from CRAN.</p>
+<pre><code>install.packages(&quot;BetaBit&quot;)
+library(&quot;BetaBit&quot;)
+proton()</code></pre>
+</div>
 
 
 
@@ -380,7 +394,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -398,7 +412,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

@@ -3,22 +3,14 @@ output_dir: "."
 navbar:
   title: "Przemyslaw Biecek"
   left:
-    - text: "Research"
-      href: research.html
-    - text: "Books"
-      href: books.html
-    - text: "Software"
-      href: software.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Data Literacy"
-      href: betabit.html
+    - text: "MI²DataLab"
+      href: mi2.html
+    - text: "Solutions42"
+      href: solutions42.html
+    - text: "Academy"
+      href: academy.html
     - text: "Call for collaborators"
-      href: jobs.html
-    - text: "HOMER"
       href: homer.html
-    - text: "xGrammar"
-      href: xGrammar.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -27,7 +19,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/smarterpoland
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/przemyslaw-biecek-5b41761/
+      href: https://www.linkedin.com/in/pbiecek/
 output:
   html_document:
     theme: paper

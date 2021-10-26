@@ -1,7 +1,15 @@
 ---
+output:
+  html_document: 
+    toc: false
+    toc_float: false
+description: Przemysław Biecek
+title: Przemysław Biecek
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/przemek8.png" style="width:33%; border:10px solid white; margin-right: 20px" align="left">
 
 Feel free to contact with me:
 
