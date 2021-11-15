@@ -8,9 +8,43 @@ title: Call for collaborators
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-![HOMER](images/homer.png)
+## xLungs - Responsible Artificial Intelligence for Lung Diseases
 
-**Human Oriented autoMated machinE leaRning**
+<img src="https://www.mi2.ai/images/projects_xlungs.jpg" width="500px">
+
+Where: [MI2DataLab](http://mi2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.mini.pw.edu.pl/). 
+
+What:
+
+The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist’s work by enriching the images with additional information.
+
+### Research software engineer (6 positions)
+
+Required:
+
+* Background in Computer Science, Mathematics, Statistics or similar. 
+* Experience in Scientific Programming (R and/or Python and/or C++)
+* Interest in explanability, medical applications and predictive models.
+
+Scope of work:
+
+* Training of machine learning models for lung images
+* Interpretable solutions for computer tomography images
+* Interactive interfaces for medical images
+* Responsible ML solutions for healthcare domain
+
+Offer:
+
+* Excellent atmosphere for work in a young and very active lab
+* Conferences and training budget
+* Short visits in cooperating abroad group
+* Access to CPU / GPU clusters
+* Elastic working hours that can be combines with studies
+
+
+## HOMER - Human Oriented autoMated machinE leaRning
+
+<img src="images/homer.png" width="500px">
 
 Where: [MI2DataLab](http://mi2.mini.pw.edu.pl/) at [Warsaw University of Technology](https://www.mini.pw.edu.pl/). Our [GitHub](https://github.com/ModelOriented/).
 
@@ -31,7 +65,7 @@ of complex models and poor automation results in problems with replicability and
 
 **The main goal of this project is to develop new methods for human-oriented model exploration, interpretable model audits and automated model assembly. The newly appointed research team will create a grammar for human - model interaction.**
 
-## Post-doc
+### Post-doc
 
 Required:
 
@@ -57,7 +91,7 @@ Offer:
 * 10 000 PLN gross per month (plus results-driven extras)
 * contract for 6 months (short visit) / 12 months or 24 months (long visit)
 
-## PhD student (2 positions)
+### PhD student (2 positions)
 
 Required:
 
@@ -85,7 +119,7 @@ Offer:
 * contract for 6 months (short visit) / 3.5 years (full PhD)
 
 
-## Scientific programmers (2 positions)
+### Scientific programmers (2 positions)
 
 Required:
 
