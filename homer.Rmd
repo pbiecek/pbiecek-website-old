@@ -18,28 +18,9 @@ What:
 
 The aim of the project is to support the process of identification of lesions visible on CT and lung x-rays. We intend to achieve this goal by building an information system based on artificial intelligence (AI) that will support the radiologist’s work by enriching the images with additional information.
 
-### Research software engineer (6 positions)
+### Research software engineer 
 
-Required:
-
-* Background in Computer Science, Mathematics, Statistics or similar. 
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Interest in explanability, medical applications and predictive models.
-
-Scope of work:
-
-* Training of machine learning models for lung images
-* Interpretable solutions for computer tomography images
-* Interactive interfaces for medical images
-* Responsible ML solutions for healthcare domain
-
-Offer:
-
-* Excellent atmosphere for work in a young and very active lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* Elastic working hours that can be combines with studies
+List of open positions is available here: https://www.mi2.ai/positions.html
 
 
 ## HOMER - Human Oriented autoMated machinE leaRning
@@ -65,80 +46,9 @@ of complex models and poor automation results in problems with replicability and
 
 **The main goal of this project is to develop new methods for human-oriented model exploration, interpretable model audits and automated model assembly. The newly appointed research team will create a grammar for human - model interaction.**
 
-### Post-doc
+### Research software engineer / Post-doc / PhD student
 
-Required:
-
-* PhD in Computer Science, Mathematics, Statistics or similar. (Different background? We encourage cross-domain research short visits).
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Good track of Scientific Records
-
-Scope of work:
-
-* Automated model exploration
-* Interpretable measures for model performance
-* Meta/transfer learning in automated model development
-* Automated model validation
-* Experiments with XAI for deep learning
-
-Offer:
-
-* Excellent atmosphere for work in a young and very active ML lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* Full-time job at Warsaw University of Technology
-* 10 000 PLN gross per month (plus results-driven extras)
-* contract for 6 months (short visit) / 12 months or 24 months (long visit)
-
-### PhD student (2 positions)
-
-Required:
-
-* MSc in Computer Science, Mathematics, Statistics or similar.  (Different background? We encourage cross-domain research short visits).
-* Experience in Scientific Programming (R and/or Python and/or C++)
-* Strong motivation 
-
-Scope of work:
-
-* Automated model exploration
-* Conferences and training budget
-* Concept drift detection
-* Reinforcement learning for Human Centered AI
-* Knowledge extraction from representations
-* Experiments with XAI for deep learning
-
-Offer:
-
-* Excellent atmosphere for work in a young and very active ML lab
-* Conferences and training budget
-* Short visits in cooperating abroad group
-* Access to CPU / GPU clusters
-* PhD scholarship
-* 3 500 PLN net per month (plus results-driven extras)
-* contract for 6 months (short visit) / 3.5 years (full PhD)
-
-
-### Scientific programmers (2 positions)
-
-Required:
-
-* Experience in Scientific Programming (R and/or Python)
-* Strong motivation 
-
-Scope of work:
-
-* Development of scientific software
-* Maintaining of existing projects
-* Experiments with XAI for deep learning
-
-
-Offer:
-
-* Excellent atmosphere for work with experienced researchers
-* Contract for a specific job
-* In a part-time settings (1 day per week) 1 500 PLN gross per month 
-* short (3 months) and long (up to 3 years) contracts
+List of open positions is available here: https://www.mi2.ai/positions.html
 
 
 ## How to apply?
