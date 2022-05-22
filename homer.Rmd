@@ -20,7 +20,7 @@ The aim of the project is to support the process of identification of lesions vi
 
 ### Research software engineer 
 
-List of open positions is available here: https://www.mi2.ai/positions.html
+List of open positions is available here: https://www.mi2.ai/open-positions.html
 
 
 ## HOMER - Human Oriented autoMated machinE leaRning
@@ -48,7 +48,7 @@ of complex models and poor automation results in problems with replicability and
 
 ### Research software engineer / Post-doc / PhD student
 
-List of open positions is available here: https://www.mi2.ai/positions.html
+List of open positions is available here: https://www.mi2.ai/open-positions.html
 
 
 ## How to apply?
